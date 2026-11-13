@@ -1,1 +1,19 @@
+# Ignora a pasta node_modules
+
+node_modules
+
+# Ignora todos os arquivos de texto
+
 *.txt
+
+# Ignora pasta “build” nesse local específico
+
+/build
+
+# Ignora arquivos relacionados às chaves de API
+
+.env
+
+# Ignora arquivos de configuração de SASS
+
+.sass-cache
